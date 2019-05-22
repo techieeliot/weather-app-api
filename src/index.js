@@ -1,6 +1,3 @@
-// let latitude = "";
-// let longitude = "";
-// let url = `https://fcc-weather-api.glitch.me/api/current?lat=${latitude}&lon=${longitude}`;
 let city = document.getElementById("city");
 let temp = document.getElementById("temp");
 let description = document.getElementById("desc");
